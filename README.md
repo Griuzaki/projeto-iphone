@@ -1,7 +1,7 @@
 <h1 align="center" > Projeto-Iphone--Responsivo </h1>
 <br>
 <br>
-<h2 align="center">Esse projeto eu aprendi no youtube do <a href="https://rodolfomori.com.br/devclub<a></h">DevClub</a></h2>
+<h2 align="center">Esse projeto eu aprendi no youtube do Canal <a href="https://www.youtube.com/c/RodolfoMori">Rodolfo Mori </a></h2>
 
 <section align="center">
   <img width="700px" src="https://github.com/Griuzaki/projeto-iphone--responsivo-git/blob/master/img/desktop.jpg.png?raw=true" alt="desktop-logo"/>
