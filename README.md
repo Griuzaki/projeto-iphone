@@ -5,10 +5,10 @@
 
 <section align="center">
   <img width="700px" src="https://github.com/Griuzaki/projeto-iphone--responsivo-git/blob/master/img/desktop.jpg.png?raw=true" alt="desktop-logo"/>
-  <img height="300px" src="https://github.com/Griuzaki/projeto-iphone--responsivo-git/blob/master/img/mobile.jpg.png?raw=true"/>
+  <img height="300px" src="https://github.com/Griuzaki/projeto-iphone--responsivo-git/blob/master/img/mobile.jpg.png?raw=true" alt="mobile-logo"/>
 </section>
 
-<h3 align="center" >Projeto Responsivo Desenvolvido Por...</h3> 
+<h3 align="center" >Projeto Responsivo - Tecnologia Utilizadas...</h3> 
 
 <section align="center" padding="30px">
   
