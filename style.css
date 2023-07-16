@@ -162,7 +162,6 @@ li {
 
     header {
         padding: 80px;
-       
     }
 
     .logo {
@@ -184,7 +183,7 @@ li {
 
     .caixa-azul {
         position: fixed;
-        margin-top: 20%;
+        margin-top: 10%;
         margin-left: 10%;
     }
 
@@ -239,14 +238,14 @@ li {
     .iphone {
         position: fixed;
         width: 80%;
-        margin-top: 170%;
+        margin-top: 150%;
     }
 
     .circulo {
         position: fixed;
         clip-path: circle(50% at right 50%);
         transform: rotate(90deg);
-        margin-top: 90%;
+        margin-top: 70%;
 
     }
 }
